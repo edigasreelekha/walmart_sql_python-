@@ -11,10 +11,10 @@ This project is an end-to-end data analysis solution designed to extract critica
    - **Tools Used**: Visual Studio Code (VS Code), Python, SQL (MySQL)
    - **Goal**: Create a structured workspace within VS Code and organize project folders for smooth development and data handling.
 
-# For cleaned data
+### For cleaned data
 [click here](https://github.com/edigasreelekha/walmart_sql_python-/blob/main/walmart_clean_data.csv)
 
-#For kaggle data 
+### For kaggle data 
 [click here](https://www.kaggle.com/najir0123/walmart-10k-sales-datasets)
 
 ### 4. Install Required Libraries and Load Data
